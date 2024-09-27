@@ -167,3 +167,6 @@ cython_debug/
 
 # Ignore all folders named wt-blogposts and all files within them
 wt-blogposts/
+
+# Ignore wip-folder
+wip/
