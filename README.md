@@ -1,6 +1,6 @@
-# LangChain for LLM Application Development - deeplearning.ai
+# LangChain for LLM Application Development - Deeplearning.AI
 
-Welcome to my **LangChain for LLM Application Development** repository! This repo contains Jupyter notebooks for reworking the course content [Deeplearning.AI](https://learn.deeplearning.ai).
+Welcome to my [**LangChain for LLM Application Development**](https://learn.deeplearning.ai/courses/langchain/)  repository! This repo contains Jupyter notebooks for reworking the course from [Deeplearning.AI](https://learn.deeplearning.ai).
 
 The goal of this repo is to document my learning journey throughout this course.
 
@@ -15,7 +15,7 @@ For each chapter I have created / will create a Jupyter notebook to re-work the 
 5. **Lesson 5**: [Question and Answer](./lessons/chapter5.ipynb) (15:06) (completed)
 6. **Lesson 6**: [Evaluation](./lessons/chapter6.ipynb) (15:06) (completed)
 7. **Lesson 7**: [Agents](./lessons/chapter7.ipynb) (14:35) (completed)
-8. **Lesson 8**: [Conclusion]()
+8. **Lesson 8**: [Conclusion](./lessons/Conclusion.md) (1:44) (completed)
 
 ## Acknowledgments
 
